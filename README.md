@@ -2,6 +2,8 @@
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
+[kiralık hacker iletişim](https://wa.me/905465920064)
+
 A modern starter based on Astro.js, Tailwind, daisyUI, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
